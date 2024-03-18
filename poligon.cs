@@ -56,7 +56,7 @@ namespace poligon
         }
     }
 
-    internal class ravan:poligon
+    internal class ravan
     {
         static public int SIS(vektor AB, tacka C, tacka D)
         {
